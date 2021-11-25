@@ -51,11 +51,5 @@ public class Main extends Application {
 
         stage.setScene(new Scene(grid, 300, 250));
         stage.show();
-
-
-
-
-
-        stage.show();
     }
 }
